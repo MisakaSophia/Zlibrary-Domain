@@ -1,11 +1,17 @@
 # NAME: Zlibrary
 # AUTHOR: MisakaSophia
 payload:
-  - DOMAIN-SUFFIX,zlibrary-global.se
-  - DOMAIN-SUFFIX,zlibrary-east.se
-  - DOMAIN-SUFFIX,zlibrary-africa.se
-  - DOMAIN-SUFFIX,zlibrary-cn.se
-  - DOMAIN-SUFFIX,singlelogin.re
-  - DOMAIN-SUFFIX,singlelogin.me
   - DOMAIN-KEYWORD,zlibrary
   - DOMAIN-KEYWORD,singlelogin
+  - DOMAIN-KEYWORD,zlibrary-global.se
+  - DOMAIN-KEYWORD,zlibrary-east.se
+  - DOMAIN-KEYWORD,zlibrary-africa.se
+  - DOMAIN-KEYWORD,zlibrary-cn.se
+  - DOMAIN-KEYWORD,singlelogin.re
+  - DOMAIN-KEYWORD,singlelogin.me
+  - DOMAIN-SUFFIX,singlelogin.me
+  - DOMAIN-SUFFIX,singlelogin.re
+  - DOMAIN-SUFFIX,zlibrary-cn.se
+  - DOMAIN-SUFFIX,zlibrary-africa.se
+  - DOMAIN-SUFFIX,zlibrary-east.se
+  - DOMAIN-SUFFIX,zlibrary-global.se
